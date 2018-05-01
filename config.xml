@@ -2,13 +2,13 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
   xmlns:gap = "http://phonegap.com/ns/1.0"
-  id = "com.phonegap.app2"
+  id = "com.phonegap.app4"
   version ="1.0.0">
   
-  <name> app3 Dia Mundial de la Bicicleta </name>
+  <name> app4 Contaminacion Ambiental en mi Comunidad</name>
   
   <description>
-  Aplicacion que muestra el Dia Mundial de la Bicicleta
+  Aplicacion que muestra la Contaminacion Ambiental en mi Comunidad
   </description>
   
   <author href="https://build.phonegap.com" email="micorreo@gmail.com">
